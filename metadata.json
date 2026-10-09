@@ -1,0 +1,6 @@
+{
+  "name": "MAX AI",
+  "description": "Futuristic personal AI assistant with voice conversations, vision analysis, study and coding modes, and smart device actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
